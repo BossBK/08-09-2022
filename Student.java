@@ -1,3 +1,7 @@
+
+/* Question - To camparing object values using equals method*/
+
+
 package com.equals.demo;
 
 import java.util.Objects;
